@@ -2,7 +2,6 @@
 
 using namespace std;
 
-// Complete the solve function below.
 void solve(double meal_cost, int tip_percent, int tax_percent) {
     
     double tax = (double)(tip_percent * meal_cost) / 100 + (double)(tax_percent * tip_percent) / 100;
