@@ -19,3 +19,5 @@
 <a href="https://www.hackerrank.com/challenges/30-class-vs-instance/problem"><img src="https://img.shields.io/badge/Day_4-%233776AB.svg?&style=flat-square&logo=hackerrank&logoColor=white" height=18></a>
 
 <a href="https://www.hackerrank.com/challenges/30-loops/problem"><img src="https://img.shields.io/badge/Day_5-%233776AB.svg?&style=flat-square&logo=hackerrank&logoColor=white" height=18></a>
+
+<a href="https://www.hackerrank.com/challenges/30-review-loop/problem"><img src="https://img.shields.io/badge/Day_6-%233776AB.svg?&style=flat-square&logo=hackerrank&logoColor=white" height=18></a>
