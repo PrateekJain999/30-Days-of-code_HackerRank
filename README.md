@@ -27,3 +27,5 @@
 <a href="https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem"><img src="https://img.shields.io/badge/Day_8-%233776AB.svg?&style=flat-square&logo=hackerrank&logoColor=white" height=18></a>
 
 <a href="https://www.hackerrank.com/challenges/30-recursion/problem"><img src="https://img.shields.io/badge/Day_9-%233776AB.svg?&style=flat-square&logo=hackerrank&logoColor=white" height=18></a>
+
+<a href="https://www.hackerrank.com/challenges/30-binary-numbers/problem"><img src="https://img.shields.io/badge/Day_10-%233776AB.svg?&style=flat-square&logo=hackerrank&logoColor=white" height=18></a>
