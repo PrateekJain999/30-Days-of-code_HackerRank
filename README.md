@@ -41,3 +41,6 @@
 <a href="https://www.hackerrank.com/challenges/30-linked-list/problem"><img src="https://img.shields.io/badge/Day_15-%233776AB.svg?&style=flat-square&logo=hackerrank&logoColor=white" height=18></a>
 
 <a href="https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem"><img src="https://img.shields.io/badge/Day_16-%233776AB.svg?&style=flat-square&logo=hackerrank&logoColor=white" height=18></a>
+
+<a href="https://www.hackerrank.com/challenges/30-more-exceptions/problem"><img src="https://img.shields.io/badge/Day_17-%233776AB.svg?&style=flat-square&logo=hackerrank&logoColor=white" height=18></a>
+
